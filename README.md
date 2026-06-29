@@ -1,4 +1,4 @@
-# FAB- Financial Analysis Bootcamp Project
+# FAB- Financial Analysis Bootcamp Project [its capstone project will be uploaded after 14th july]
 Done under IIT Guwahati Finance and Economics Club
 
 Is a beginner friendly, hands-on journey into the world of stock market investing. Over 3 weeks,
